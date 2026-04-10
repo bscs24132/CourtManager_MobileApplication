@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "702553615840",
+    "firebase_url": "https://courtroom-manager-default-rtdb.firebaseio.com",
+    "project_id": "courtroom-manager",
+    "storage_bucket": "courtroom-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702553615840:android:bf6729ecbb3a7196330f85",
+        "android_client_info": {
+          "package_name": "com.example.courtroom_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9TuYrsvDwbwZnosL41fns3JyQlfLQbT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
